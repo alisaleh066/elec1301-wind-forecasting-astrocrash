@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Generated outputs
+*.log
+
+# Do not commit duplicate compressed submissions
+*.zip
+*.rar
+*.7z
