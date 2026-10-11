@@ -19,3 +19,8 @@ __MACOSX/
 *.zip
 *.rar
 *.7z
+
+# secrets
+.env
+.env.*
+!.env.example
